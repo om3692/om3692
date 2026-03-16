@@ -1,67 +1,74 @@
-# 🚀 Architecting Next-Gen AI Solutions | Om Awalekar
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=800&lines=Hello+World,+I'm+Om+Awalekar+👋;AI+%26+ML+Engineering+Student;Generative+AI+%26+LLM+Enthusiast;Architecting+Cloud+Solutions" alt="Typing SVG" />
+</h1>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=om3692&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="Om's GitHub Stats" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Focus-Generative_AI_%26_LLMs-blue?style=for-the-badge&logo=openai" />
-<img src="https://img.shields.io/badge/B.Tech-AI_%26_ML_Engineering-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/B.Tech-AI_%26_ML_Engineering-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tech_Intern-Anannt_Training_Institute-blue?style=for-the-badge" />
+</div>
+<br>
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="55%" valign="top">
+        <h3>🚀 The Professional Narrative</h3>
+        I am an intellectually curious engineer bridging the gap between raw data and scalable, human-centric solutions. Currently studying at <b>JSPM University</b>, my technical journey is defined by a <b>voracious</b> appetite for hands-on application.<br><br>
+        As a Tech Intern at <b>Anannt Training Institute</b>, I synthesize academic theory with production reality, focusing heavily on Generative AI, predictive modeling, and robust web applications.<br><br>
+        <i>Beyond the code, I am actively refining my analytical writing for the <b>GRE</b> and mastering <b>German (A1)</b>.</i>
+      </td>
+      <td width="45%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=om3692&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&bg_color=00000000" alt="Om's Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-> **Mission:** Bridging the gap between complex algorithms and scalable, human-centric tech solutions.
+<br>
 
-### 🔭 The Professional Narrative
-
-I am a driven **AI & Machine Learning Engineering student** at JSPM University who views technology not just as code, but as a **catalyst** for solving real-world problems. My technical journey is defined by a **voracious** appetite for hands-on learning, particularly at the intersection of Generative AI, predictive modeling, and cloud architecture.
-
-Rather than just studying theory, I actively seek to **synthesize** my academic foundation with practical industry applications, focusing on how Large Language Models (LLMs) can be deployed to optimize operational workflows.
-
-* 🎓 **Academic Foundation:** B.Tech in Artificial Intelligence & Machine Learning.
-* 🧠 **Specialized Focus:** Building intelligent backends and leveraging cloud infrastructure (AWS).
-* ✍️ **Continuous Growth:** Refining analytical reasoning for the **GRE** and mastering **German (A1)**.
-
----
-
-### 💼 Engineering in Practice
-
-**Tech Intern** @ *Anannt Training Institute* (May 2025 - July 2025)
-> Transitioning theory into production. Tasked with developing robust web applications and integrating data-driven features to streamline business processes.
-
-**Intern** @ *Anannt Training Institute* (Nov 2023 - April 2024)
-> Applied foundational AI concepts in a fast-paced environment to **elucidate** complex datasets and support software engineering initiatives.
-
----
-
-### 🛠️ Technical Arsenal
-
-| Category | Capabilities & Tools | 
-| :--- | :--- | 
-| **AI, ML & Generative Tech** | ![GenAI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-FF9D00?style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) | 
-| **Core Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | 
-| **Web & Architecture** | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Web_Apps](https://img.shields.io/badge/Web_Applications-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white) |
-| **Cloud & Infrastructure** | ![AWS](https://img.shields.io/badge/AWS_Cloud-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | 
-
----
-
-### 🏆 Milestones & Certifications
-
-* 🧠 **Google Generative AI:** Certified in Introduction to Large Language Models (LLMs). 
-* ☁️ **AWS Cloud Foundation:** Validated expertise in cloud deployment and infrastructure.
-* 🏅 **Project Exhibition:** Showcased technical projects at *INNERVE (Technophilia 2024)*.
-
----
-
-### 📊 Proficiency & Consistency
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om3692&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=om3692&theme=tokyonight&hide_border=true" />
+<h3 align="center">🛠️ Technical Arsenal</h3>
+<p align="center">
+  <i>Languages, Frameworks, and Cloud Infrastructure</i><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,tensorflow,pytorch,opencv,flask,aws,mysql,mongo,git,github,html,css&perline=7" alt="Om's Skills" />
+  </a>
 </p>
 
----
+<br>
 
-### 🤝 Let's Collaborate & Connect
+<h3>🏆 Milestones & Pragmatic Application</h3>
 
-I am always eager to discuss innovative GenAI solutions, cloud architectures, or potential collaborations. If you are looking for a dedicated engineer who thrives on **pragmatic** problem-solving, I would love to connect with you!
+<details>
+  <summary><b>💼 Tech Intern @ Anannt Training Institute</b> <i>(Click to expand)</i></summary>
+  <ul>
+    <li><b>May 2025 - July 2025:</b> Building robust web applications and integrating intelligent solutions to optimize operational workflows.</li>
+    <li><b>Nov 2023 - April 2024:</b> Applied foundational AI concepts to <b>elucidate</b> complex datasets and support software engineering initiatives.</li>
+  </ul>
+</details>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-awalekar-225721251) 
-[![Gmail](https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omawalekar90@gmail.com)
+<details>
+  <summary><b>📜 Certifications & Achievements</b> <i>(Click to expand)</i></summary>
+  <ul>
+    <li>🧠 <b>Google Generative AI:</b> Certified in Introduction to Large Language Models (LLMs).</li>
+    <li>☁️ <b>AWS Cloud Foundation:</b> Validated expertise in cloud deployment and architecture.</li>
+    <li>💻 <b>Cisco OS Basics:</b> Strong foundational knowledge of operating systems.</li>
+    <li>🏅 <b>INNERVE (Technophilia 2024):</b> Exhibited technical projects.</li>
+  </ul>
+</details>
+
+<br>
+
+<div align="center">
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=om3692&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</div>
+<br>
+
+<h3 align="center">🤝 Let's Collaborate</h3>
+<p align="center">
+  I am always eager to discuss innovative GenAI solutions or potential collaborations. <br>If you are looking for a dedicated, <b>pragmatic</b> engineer, let's connect!
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/om-awalekar-225721251"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:omawalekar90@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</div>
