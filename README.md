@@ -20,19 +20,20 @@ Currently, as a Tech Intern at **Anannt Training Institute**, I am focused on de
 | Project | Domain | Description | Core Stack |
 | :--- | :--- | :--- | :--- |
 | **Intelligent Pneumonia Diagnosis** | *Deep Learning* | CNN-based automated detection system for chest X-rays to enhance clinical efficiency. | `Python` `TensorFlow` `OpenCV` |
+| **AI Interview Platform** | *NLP & GenAI* | Intelligent preparation platform to simulate and evaluate technical interviews. | `Python` `LLMs` `Web Apps` |
 | **Air Writing System** | *Computer Vision* | Touchless writing interface utilizing real-time hand-gesture recognition. | `Python` `MediaPipe` `OpenCV` |
 | **Dengue Prediction Model** | *Predictive Analytics* | Forecasting outbreaks by integrating environmental and historical datasets. | `Machine Learning` `Scikit-Learn` |
 
 ### 🛠️ Technical Repertoire
-- **Core Intelligence:** Large Language Models (LLMs), Generative AI, Computer Vision.
+- **Core Intelligence:** Large Language Models (LLMs), Generative AI, Natural Language Processing (NLP).
 - **Languages:** `Python`, `Java`, `C++`.
-- **Frameworks & Infrastructure:** `TensorFlow`, `PyTorch`, `Flask`, `AWS Cloud`.
+- **Frameworks & Infrastructure:** `TensorFlow`, `PyTorch`, `Flask`, `AWS Cloud`, `DBMS`.
 - **Databases & DevOps:** `MySQL`, `MongoDB`, `Git`.
 
-### 🏆 Milestones & Continuous Growth
+### 🏆 Milestones & The Human Element
 - 📜 **Certifications:** Google Generative AI (LLMs) | AWS Cloud Foundation | Cisco OS Basics.
-- 🗣️ **Global Communication:** Cultivating A1 proficiency in **German** and refining analytical reasoning for the **GRE**.
-- 🏅 **Community:** Showcased technical projects at *INNERVE (Technophilia 2024)*.
+- 🏅 **Community Engagement:** Showcased technical projects at *INNERVE (Technophilia 2024)*.
+- 🌿 **Beyond the Screen:** When I am not architecting data models, you can find me recharging in nature, playing a fast-paced game of badminton, or brewing a great cup of coffee.
 
 ---
 <div align="center">
